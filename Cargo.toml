@@ -1,0 +1,13 @@
+ [package]
+ name = "bad_frpc_launcher"
+ version = "0.1.0"
+ edition = "2021"
+
+ [[bin]]
+ name = "bad_frpc_launcher"
+ path = "main.rs"
+
+ [dependencies]
+ eframe = "0.27"
+ egui = "0.27"
+ toml = "0.8"

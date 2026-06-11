@@ -1,0 +1,25 @@
+# Rust build output
+/target/
+Cargo.lock
+
+# Packaged binaries and release artifacts
+/dist/
+/release/
+/build/
+/out/
+
+# Runtime logs
+*.log
+*.log.*
+
+# Local FRPC runtime/config files
+/frpc/frpc.toml
+/frpc/*.log
+/frpc/*.pid
+/frpc/frpc.exe
+
+# Editor and OS files
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store

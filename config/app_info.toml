@@ -1,0 +1,10 @@
+[software]
+name = "Bad frpc Launcher"
+version = "0.1.0"
+description = "一个frp的GUI启动器。"
+homepage = ""
+
+[author]
+name = "BadFlandre"
+bio = "有个朋友不会编写配置文件不会用命令行启动frpc，所以有了这个项目..."
+contact = "i@flandrescarlet.cn"
